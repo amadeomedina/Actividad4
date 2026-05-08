@@ -1,4 +1,0 @@
-langchain-google-genai
-langchain-community
-duckduckgo-search
-gradio
